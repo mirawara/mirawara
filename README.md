@@ -44,7 +44,7 @@
     <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
   </a>
 </p>
-<h3 align="center">Web 👨‍💻</h3>
+<h4 align="center">Web 👨‍💻</h4>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-<h3 align="center">Operating Systems 🖥️ </h3>
+<h4 align="center">Operating Systems 🖥️ </h4>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
-<h3 align="center">Databases 🗄️ </h3>
+<h4 align="center">Databases 🗄️ </h4>
 <p align="center">
 <a href="https://www.redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
@@ -89,7 +89,7 @@
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/>
 </a>
 </p>
-<h3 align="center">Tools and Frameworks 🔧 </h3>
+<h4 align="center">Tools and Frameworks 🔧 </h4>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
