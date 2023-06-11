@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Mirabella</h1>
 <h3 align="center">Computer Engineer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirawara&label=Profile%20views&color=0e75b6&style=flat" alt="mirawara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mirawara&label=Profile%20views&color=0e75b6&style=flat" alt="mirawara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirawara" alt="mirawara" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirawara" alt="mirawara" /></a> </p>-->
 
 - 👨‍💻 I love **cybersecurity!**
-
+- 🚩 CTF Player and CyberchallengeIT 2023 partecipant
 - 📫 How to reach me **lorenzo.mirabella@outlook.it**
 
 <h2 align="center">Social 🔗</h2>
