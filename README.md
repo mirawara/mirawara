@@ -20,7 +20,6 @@
 <hr>
 
 <h2 align="center">Knowledge 🧠 </h2>
-<br>
 <h3 align="center">Languages 👨‍💻 </h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
