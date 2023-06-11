@@ -45,7 +45,6 @@
     <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
   </a>
 </p>
-<br>
 <h3 align="center">Web 👨‍💻</h3>
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -58,7 +57,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-<br>
 <h3 align="center">Operating Systems 🖥️ </h3>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -71,7 +69,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
-<br>
 <h3 align="center">Databases 🗄️ </h3>
 <p align="center">
 <a href="https://www.redis.io" target="_blank" rel="noreferrer">
@@ -92,9 +89,7 @@
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/>
 </a>
-
 </p>
-<br>
 <h3 align="center">Tools and Frameworks 🔧 </h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
