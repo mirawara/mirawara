@@ -20,7 +20,7 @@
 <hr>
 
 <h2 align="center">Knowledge 🧠 </h2>
-<h3 align="center">Languages 👨‍💻 </h3>
+<h4 align="center">Languages 👨‍💻 </h4>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
