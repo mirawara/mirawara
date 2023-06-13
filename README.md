@@ -46,6 +46,10 @@
   <a href="https://www.erlang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
   </a>
+	<a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374164/vhdl.svg" alt="VHDL" width="40" height="40"/>
+</a>
+
 </p>
 <h4 align="center">Web 👨‍💻</h4>
 <p align="center">
@@ -58,6 +62,17 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</a>
+<a href="https://javaee.github.io/glassfish/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-icon.svg" alt="GlassFish" width="40" height="40"/>
+</a>
+	<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40"/>
+</a>
+
+
 </p>
 <h4 align="center">Operating Systems 🖥️ </h4>
 <p align="center">
@@ -127,6 +142,13 @@
 <a href="https://www.openstack.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="OpenStack" width="40" height="40"/>
 </a>
+	<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" alt="Vivado" width="40" height="40"/>
+</a>
+<a href="https://www.openssl.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/openssl/openssl-official.svg" alt="OpenSSL" width="40" height="40"/>
+</a>
+
 <a href="https://www.snort.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="Snort" width="40" height="40"/>
 </a>
